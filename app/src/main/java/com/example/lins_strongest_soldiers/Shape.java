@@ -1,4 +1,6 @@
 package com.example.lins_strongest_soldiers;
 
-public class Shape {
+public abstract class Shape {
+    private int x;
+    private int y;
 }
